@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello world!");
     }
     public String greeting() {
-        return "Hi, world!";
+        return "Hello, world!"+"Hi, world!";
     }
 }
