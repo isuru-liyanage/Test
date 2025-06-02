@@ -1,11 +1,15 @@
 package org.example;
 
-public class Main {
+public class exm {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
+
     public String greeting() {
-        return "Hello, world!"+"Hi, world!";
+        return "Hello, world!" + "Hi, world!";
     }
-//    hihaskfksl
+
+    public String anotherGreeting() {
+        return "Hello again, world!";
+    }
 }
